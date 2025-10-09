@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\bin\Debug\net9.0\defaultInterface.deps.json
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\bin\Debug\net9.0\defaultInterface.dll
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\bin\Debug\net9.0\defaultInterface.pdb
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\obj\Debug\net9.0\defaultInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\obj\Debug\net9.0\defaultInterface.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\obj\Debug\net9.0\defaultInterface.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\obj\Debug\net9.0\defaultInterface.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\obj\Debug\net9.0\defaultInterface.dll
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\obj\Debug\net9.0\refint\defaultInterface.dll
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\obj\Debug\net9.0\defaultInterface.pdb
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\obj\Debug\net9.0\ref\defaultInterface.dll
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\bin\Debug\net9.0\defaultInterface.exe
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\bin\Debug\net9.0\defaultInterface.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\dAY3\defaultInterface\obj\Debug\net9.0\defaultInterface.genruntimeconfig.cache

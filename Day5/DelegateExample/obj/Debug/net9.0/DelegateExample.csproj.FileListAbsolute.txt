@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\bin\Debug\net9.0\DelegateExample.deps.json
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\bin\Debug\net9.0\DelegateExample.dll
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\bin\Debug\net9.0\DelegateExample.pdb
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\obj\Debug\net9.0\DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\obj\Debug\net9.0\DelegateExample.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\obj\Debug\net9.0\DelegateExample.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\obj\Debug\net9.0\DelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\obj\Debug\net9.0\DelegateExample.dll
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\obj\Debug\net9.0\refint\DelegateExample.dll
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\obj\Debug\net9.0\DelegateExample.pdb
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\obj\Debug\net9.0\ref\DelegateExample.dll
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\bin\Debug\net9.0\DelegateExample.exe
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\bin\Debug\net9.0\DelegateExample.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\Day5\DelegateExample\obj\Debug\net9.0\DelegateExample.genruntimeconfig.cache

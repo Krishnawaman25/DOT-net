@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\Day6\Day6\bin\Debug\net9.0\Day6.deps.json
+C:\Users\Dell\Source\DOTNET\Day6\Day6\bin\Debug\net9.0\Day6.dll
+C:\Users\Dell\Source\DOTNET\Day6\Day6\bin\Debug\net9.0\Day6.pdb
+C:\Users\Dell\Source\DOTNET\Day6\Day6\obj\Debug\net9.0\Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\Day6\Day6\obj\Debug\net9.0\Day6.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\Day6\Day6\obj\Debug\net9.0\Day6.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\Day6\Day6\obj\Debug\net9.0\Day6.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\Day6\Day6\obj\Debug\net9.0\Day6.dll
+C:\Users\Dell\Source\DOTNET\Day6\Day6\obj\Debug\net9.0\refint\Day6.dll
+C:\Users\Dell\Source\DOTNET\Day6\Day6\obj\Debug\net9.0\Day6.pdb
+C:\Users\Dell\Source\DOTNET\Day6\Day6\obj\Debug\net9.0\ref\Day6.dll
+C:\Users\Dell\Source\DOTNET\Day6\Day6\bin\Debug\net9.0\Day6.exe
+C:\Users\Dell\Source\DOTNET\Day6\Day6\bin\Debug\net9.0\Day6.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\Day6\Day6\obj\Debug\net9.0\Day6.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\bin\Debug\net9.0\Sitchcase.exe
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\bin\Debug\net9.0\Sitchcase.deps.json
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\bin\Debug\net9.0\Sitchcase.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\bin\Debug\net9.0\Sitchcase.dll
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\bin\Debug\net9.0\Sitchcase.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\obj\Debug\net9.0\Sitchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\obj\Debug\net9.0\Sitchcase.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\obj\Debug\net9.0\Sitchcase.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\obj\Debug\net9.0\Sitchcase.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\obj\Debug\net9.0\Sitchcase.dll
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\obj\Debug\net9.0\refint\Sitchcase.dll
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\obj\Debug\net9.0\Sitchcase.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\obj\Debug\net9.0\Sitchcase.genruntimeconfig.cache
+C:\Users\Dell\Source\DOTNET\DAY1\Sitchcase\obj\Debug\net9.0\ref\Sitchcase.dll

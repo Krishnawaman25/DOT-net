@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\bin\Debug\net9.0\evenodd.exe
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\bin\Debug\net9.0\evenodd.deps.json
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\bin\Debug\net9.0\evenodd.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\bin\Debug\net9.0\evenodd.dll
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\bin\Debug\net9.0\evenodd.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\obj\Debug\net9.0\evenodd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\obj\Debug\net9.0\evenodd.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\obj\Debug\net9.0\evenodd.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\obj\Debug\net9.0\evenodd.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\obj\Debug\net9.0\evenodd.dll
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\obj\Debug\net9.0\refint\evenodd.dll
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\obj\Debug\net9.0\evenodd.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\obj\Debug\net9.0\evenodd.genruntimeconfig.cache
+C:\Users\Dell\Source\DOTNET\DAY1\evenodd\obj\Debug\net9.0\ref\evenodd.dll

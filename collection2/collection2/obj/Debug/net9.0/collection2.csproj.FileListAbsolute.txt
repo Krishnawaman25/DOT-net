@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\collection2\collection2\bin\Debug\net9.0\collection2.deps.json
+C:\Users\Dell\Source\DOTNET\collection2\collection2\bin\Debug\net9.0\collection2.dll
+C:\Users\Dell\Source\DOTNET\collection2\collection2\bin\Debug\net9.0\collection2.pdb
+C:\Users\Dell\Source\DOTNET\collection2\collection2\obj\Debug\net9.0\collection2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\collection2\collection2\obj\Debug\net9.0\collection2.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\collection2\collection2\obj\Debug\net9.0\collection2.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\collection2\collection2\obj\Debug\net9.0\collection2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\collection2\collection2\obj\Debug\net9.0\collection2.dll
+C:\Users\Dell\Source\DOTNET\collection2\collection2\obj\Debug\net9.0\refint\collection2.dll
+C:\Users\Dell\Source\DOTNET\collection2\collection2\obj\Debug\net9.0\collection2.pdb
+C:\Users\Dell\Source\DOTNET\collection2\collection2\obj\Debug\net9.0\ref\collection2.dll
+C:\Users\Dell\Source\DOTNET\collection2\collection2\bin\Debug\net9.0\collection2.exe
+C:\Users\Dell\Source\DOTNET\collection2\collection2\bin\Debug\net9.0\collection2.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\collection2\collection2\obj\Debug\net9.0\collection2.genruntimeconfig.cache

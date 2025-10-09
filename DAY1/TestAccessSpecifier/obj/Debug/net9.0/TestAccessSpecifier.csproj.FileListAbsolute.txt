@@ -1,0 +1,11 @@
+C:\Users\Dell\Source\DOTNET\DAY1\TestAccessSpecifier\bin\Debug\net9.0\TestAccessSpecifier.deps.json
+C:\Users\Dell\Source\DOTNET\DAY1\TestAccessSpecifier\bin\Debug\net9.0\TestAccessSpecifier.dll
+C:\Users\Dell\Source\DOTNET\DAY1\TestAccessSpecifier\bin\Debug\net9.0\TestAccessSpecifier.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\TestAccessSpecifier\obj\Debug\net9.0\TestAccessSpecifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\DAY1\TestAccessSpecifier\obj\Debug\net9.0\TestAccessSpecifier.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\TestAccessSpecifier\obj\Debug\net9.0\TestAccessSpecifier.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\DAY1\TestAccessSpecifier\obj\Debug\net9.0\TestAccessSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\TestAccessSpecifier\obj\Debug\net9.0\TestAccessSpecifier.dll
+C:\Users\Dell\Source\DOTNET\DAY1\TestAccessSpecifier\obj\Debug\net9.0\refint\TestAccessSpecifier.dll
+C:\Users\Dell\Source\DOTNET\DAY1\TestAccessSpecifier\obj\Debug\net9.0\TestAccessSpecifier.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\TestAccessSpecifier\obj\Debug\net9.0\ref\TestAccessSpecifier.dll

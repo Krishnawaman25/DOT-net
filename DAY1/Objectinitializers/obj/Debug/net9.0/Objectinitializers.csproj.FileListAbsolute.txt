@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\bin\Debug\net9.0\Objectinitializers.deps.json
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\bin\Debug\net9.0\Objectinitializers.dll
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\bin\Debug\net9.0\Objectinitializers.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\obj\Debug\net9.0\Objectinitializers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\obj\Debug\net9.0\Objectinitializers.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\obj\Debug\net9.0\Objectinitializers.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\obj\Debug\net9.0\Objectinitializers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\obj\Debug\net9.0\Objectinitializers.dll
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\obj\Debug\net9.0\refint\Objectinitializers.dll
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\obj\Debug\net9.0\Objectinitializers.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\obj\Debug\net9.0\ref\Objectinitializers.dll
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\bin\Debug\net9.0\Objectinitializers.exe
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\bin\Debug\net9.0\Objectinitializers.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\DAY1\Objectinitializers\obj\Debug\net9.0\Objectinitializers.genruntimeconfig.cache

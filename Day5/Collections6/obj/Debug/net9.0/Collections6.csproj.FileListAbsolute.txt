@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\bin\Debug\net9.0\Collections6.deps.json
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\bin\Debug\net9.0\Collections6.dll
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\bin\Debug\net9.0\Collections6.pdb
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\obj\Debug\net9.0\Collections6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\obj\Debug\net9.0\Collections6.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\obj\Debug\net9.0\Collections6.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\obj\Debug\net9.0\Collections6.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\obj\Debug\net9.0\Collections6.dll
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\obj\Debug\net9.0\refint\Collections6.dll
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\obj\Debug\net9.0\Collections6.pdb
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\obj\Debug\net9.0\ref\Collections6.dll
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\bin\Debug\net9.0\Collections6.exe
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\bin\Debug\net9.0\Collections6.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\Day5\Collections6\obj\Debug\net9.0\Collections6.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\DAY1\functions\bin\Debug\net9.0\functions.exe
+C:\Users\Dell\Source\DOTNET\DAY1\functions\bin\Debug\net9.0\functions.deps.json
+C:\Users\Dell\Source\DOTNET\DAY1\functions\bin\Debug\net9.0\functions.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\DAY1\functions\bin\Debug\net9.0\functions.dll
+C:\Users\Dell\Source\DOTNET\DAY1\functions\bin\Debug\net9.0\functions.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\functions\obj\Debug\net9.0\functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\DAY1\functions\obj\Debug\net9.0\functions.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\functions\obj\Debug\net9.0\functions.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\DAY1\functions\obj\Debug\net9.0\functions.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\functions\obj\Debug\net9.0\functions.dll
+C:\Users\Dell\Source\DOTNET\DAY1\functions\obj\Debug\net9.0\refint\functions.dll
+C:\Users\Dell\Source\DOTNET\DAY1\functions\obj\Debug\net9.0\functions.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\functions\obj\Debug\net9.0\functions.genruntimeconfig.cache
+C:\Users\Dell\Source\DOTNET\DAY1\functions\obj\Debug\net9.0\ref\functions.dll

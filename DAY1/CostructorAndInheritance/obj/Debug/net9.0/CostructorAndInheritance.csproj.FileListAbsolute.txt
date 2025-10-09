@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\bin\Debug\net9.0\CostructorAndInheritance.deps.json
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\bin\Debug\net9.0\CostructorAndInheritance.dll
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\bin\Debug\net9.0\CostructorAndInheritance.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\obj\Debug\net9.0\CostructorAndInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\obj\Debug\net9.0\CostructorAndInheritance.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\obj\Debug\net9.0\CostructorAndInheritance.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\obj\Debug\net9.0\CostructorAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\obj\Debug\net9.0\CostructorAndInheritance.dll
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\obj\Debug\net9.0\refint\CostructorAndInheritance.dll
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\obj\Debug\net9.0\CostructorAndInheritance.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\obj\Debug\net9.0\ref\CostructorAndInheritance.dll
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\bin\Debug\net9.0\CostructorAndInheritance.exe
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\bin\Debug\net9.0\CostructorAndInheritance.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\DAY1\CostructorAndInheritance\obj\Debug\net9.0\CostructorAndInheritance.genruntimeconfig.cache

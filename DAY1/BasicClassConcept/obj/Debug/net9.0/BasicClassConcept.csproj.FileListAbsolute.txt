@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\bin\Debug\net9.0\BasicClassConcept.exe
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\bin\Debug\net9.0\BasicClassConcept.deps.json
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\bin\Debug\net9.0\BasicClassConcept.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\bin\Debug\net9.0\BasicClassConcept.dll
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\bin\Debug\net9.0\BasicClassConcept.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\obj\Debug\net9.0\BasicClassConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\obj\Debug\net9.0\BasicClassConcept.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\obj\Debug\net9.0\BasicClassConcept.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\obj\Debug\net9.0\BasicClassConcept.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\obj\Debug\net9.0\BasicClassConcept.dll
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\obj\Debug\net9.0\refint\BasicClassConcept.dll
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\obj\Debug\net9.0\BasicClassConcept.pdb
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\obj\Debug\net9.0\BasicClassConcept.genruntimeconfig.cache
+C:\Users\Dell\Source\DOTNET\DAY1\BasicClassConcept\obj\Debug\net9.0\ref\BasicClassConcept.dll

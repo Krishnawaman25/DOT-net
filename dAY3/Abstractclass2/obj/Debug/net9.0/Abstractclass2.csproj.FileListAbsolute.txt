@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\bin\Debug\net9.0\Abstractclass2.deps.json
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\bin\Debug\net9.0\Abstractclass2.dll
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\bin\Debug\net9.0\Abstractclass2.pdb
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\obj\Debug\net9.0\Abstractclass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\obj\Debug\net9.0\Abstractclass2.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\obj\Debug\net9.0\Abstractclass2.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\obj\Debug\net9.0\Abstractclass2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\obj\Debug\net9.0\Abstractclass2.dll
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\obj\Debug\net9.0\refint\Abstractclass2.dll
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\obj\Debug\net9.0\Abstractclass2.pdb
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\obj\Debug\net9.0\ref\Abstractclass2.dll
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\bin\Debug\net9.0\Abstractclass2.exe
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\bin\Debug\net9.0\Abstractclass2.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\dAY3\Abstractclass2\obj\Debug\net9.0\Abstractclass2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\bin\Debug\net9.0\Collection2.deps.json
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\bin\Debug\net9.0\Collection2.dll
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\bin\Debug\net9.0\Collection2.pdb
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\obj\Debug\net9.0\Collection2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\obj\Debug\net9.0\Collection2.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\obj\Debug\net9.0\Collection2.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\obj\Debug\net9.0\Collection2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\obj\Debug\net9.0\Collection2.dll
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\obj\Debug\net9.0\refint\Collection2.dll
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\obj\Debug\net9.0\Collection2.pdb
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\obj\Debug\net9.0\ref\Collection2.dll
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\bin\Debug\net9.0\Collection2.exe
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\bin\Debug\net9.0\Collection2.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\Day5\Collection2\obj\Debug\net9.0\Collection2.genruntimeconfig.cache

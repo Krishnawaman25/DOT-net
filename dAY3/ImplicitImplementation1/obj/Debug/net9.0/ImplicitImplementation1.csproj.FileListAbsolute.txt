@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\bin\Debug\net9.0\ImplicitImplementation1.exe
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\bin\Debug\net9.0\ImplicitImplementation1.deps.json
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\bin\Debug\net9.0\ImplicitImplementation1.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\bin\Debug\net9.0\ImplicitImplementation1.dll
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\bin\Debug\net9.0\ImplicitImplementation1.pdb
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\obj\Debug\net9.0\ImplicitImplementation1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\obj\Debug\net9.0\ImplicitImplementation1.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\obj\Debug\net9.0\ImplicitImplementation1.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\obj\Debug\net9.0\ImplicitImplementation1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\obj\Debug\net9.0\ImplicitImplementation1.dll
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\obj\Debug\net9.0\refint\ImplicitImplementation1.dll
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\obj\Debug\net9.0\ImplicitImplementation1.pdb
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\obj\Debug\net9.0\ImplicitImplementation1.genruntimeconfig.cache
+C:\Users\Dell\Source\DOTNET\dAY3\ImplicitImplementation1\obj\Debug\net9.0\ref\ImplicitImplementation1.dll

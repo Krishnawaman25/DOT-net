@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\bin\Debug\net9.0\ExplicitInterface.deps.json
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\bin\Debug\net9.0\ExplicitInterface.dll
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\bin\Debug\net9.0\ExplicitInterface.pdb
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\obj\Debug\net9.0\ExplicitInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\obj\Debug\net9.0\ExplicitInterface.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\obj\Debug\net9.0\ExplicitInterface.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\obj\Debug\net9.0\ExplicitInterface.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\obj\Debug\net9.0\ExplicitInterface.dll
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\obj\Debug\net9.0\refint\ExplicitInterface.dll
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\obj\Debug\net9.0\ExplicitInterface.pdb
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\obj\Debug\net9.0\ref\ExplicitInterface.dll
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\bin\Debug\net9.0\ExplicitInterface.exe
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\bin\Debug\net9.0\ExplicitInterface.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\dAY3\ExplicitInterface\obj\Debug\net9.0\ExplicitInterface.genruntimeconfig.cache

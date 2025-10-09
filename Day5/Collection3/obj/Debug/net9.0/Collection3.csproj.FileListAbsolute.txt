@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\obj\Debug\net9.0\Collection3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\obj\Debug\net9.0\Collection3.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\obj\Debug\net9.0\Collection3.AssemblyInfo.cs
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\obj\Debug\net9.0\Collection3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\bin\Debug\net9.0\Collection3.deps.json
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\bin\Debug\net9.0\Collection3.dll
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\bin\Debug\net9.0\Collection3.pdb
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\obj\Debug\net9.0\Collection3.dll
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\obj\Debug\net9.0\refint\Collection3.dll
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\obj\Debug\net9.0\Collection3.pdb
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\obj\Debug\net9.0\ref\Collection3.dll
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\bin\Debug\net9.0\Collection3.exe
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\bin\Debug\net9.0\Collection3.runtimeconfig.json
+C:\Users\Dell\Source\DOTNET\Day5\Collection3\obj\Debug\net9.0\Collection3.genruntimeconfig.cache
