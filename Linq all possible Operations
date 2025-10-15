@@ -1,0 +1,478 @@
+using System.ComponentModel.DataAnnotations;
+using System.Reflection.Metadata;
+using System.Runtime.CompilerServices;
+using System.Threading.Channels;
+
+namespace Listing
+{
+    class Student
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+
+        public string Gender { get; set; }
+        public int Age { get; set; }
+        public int Marks { get; set; }
+        public string City { get; set; }
+    }
+    class Program
+    {
+        static void Main()
+        {
+            List<Student> Students = new List<Student>
+            { new Student{ Id=1, Name="Amit", Age=20, Gender="Male", Marks=85, City="Mumbai"},
+                new Student{ Id=2, Name="Priya", Age=22, Gender="Female", Marks=92, City="Pune"},
+                new Student{ Id=3, Name="Rohan", Age=19, Gender="Male", Marks=76, City="Delhi"},
+                new Student{ Id=4, Name="Sneha", Age=21, Gender="Female", Marks=81, City="Mumbai"},
+                new Student{ Id=5, Name="Vikram", Age=23, Gender="Male", Marks=89, City="Chennai"},
+                new Student{ Id=6, Name="Neha", Age=20, Gender="Female", Marks=95, City="Pune"},
+                new Student{ Id=7, Name="Karan", Age=22, Gender="Male", Marks=72, City="Kolkata"},
+                new Student{ Id=8, Name="Divya", Age=19, Gender="Female", Marks=68, City="Delhi"},
+                new Student{ Id=9, Name="Rahul", Age=24, Gender="Male", Marks=90, City="Bangalore"},
+                new Student{ Id=10, Name="Pooja", Age=21, Gender="Female", Marks=100, City="Mumbai" }
+            };
+            Console.WriteLine("1. Students with Marks>40:");
+            foreach (var s in Students.Where(s => s.Marks > 40))
+                Console.WriteLine($"{s.Name}-{s.Marks}");
+            Console.WriteLine();
+
+            Console.WriteLine("2. students with Marks<=50:");
+            foreach (var s in Students.Where(s => s.Marks <= 50))
+                Console.WriteLine($"{s.Name}-{s.Marks}");
+            Console.WriteLine();
+
+            Console.WriteLine("3. students with Age>20:");
+            foreach (var s in Students.Where(s => s.Age > 20))
+                Console.WriteLine($"{s.Name}-{s.Age}");
+            Console.WriteLine();
+
+
+            Console.WriteLine("5. students with Marks Between 50 and 80:");
+            foreach(var s in Students.Where(s=>s.Marks>=50 && s.Marks<=80))
+                Console.WriteLine($"{s.Name}-{s.Marks}");
+            Console.WriteLine();
+
+            Console.WriteLine("6. Top 3 students by Marks:");
+            foreach (var s in Students.OrderByDescending(s => s.Marks).Take(3))
+                Console.WriteLine($"{s.Name}-{s.Marks}");
+            Console.WriteLine();
+
+            Console.WriteLine("7. students who Failed(Marks<40):");
+            foreach (var s in Students.Where(s => s.Marks < 40))
+                Console.WriteLine($"{s.Name}-{s.Marks}");
+            Console.WriteLine();
+
+            Console.WriteLine("8. Average Marks of Students:");
+            double avg = Students.Average(s => s.Marks);
+            Console.WriteLine($"Average Marks ={avg}");
+            Console.WriteLine();
+
+            Console.WriteLine("10. Full list of students:");
+            foreach (var s in Students)
+                Console.WriteLine($"ID:{s.Id}:{s.Name},Age:{s.Age},Marks:{s.Marks}");
+
+
+            Console.WriteLine("All Students Name:");
+            foreach (var s in Students)
+                Console.WriteLine($"Id:{s.Id}:{s.Name},Age:{s.Age},Gender:{s.Gender},Marks:{s.Marks},City:{s.City}");
+            Console.WriteLine();
+
+            Console.WriteLine("Displaying students who are from mumbai");
+            foreach(Student student in Students)
+            {
+                if (student.City == "Mumbai")
+                {
+                    Console.WriteLine($"Name:{student.Name},City:{student.City}");
+                }
+
+            }
+
+             Console.WriteLine();
+            Console.WriteLine("Name of the students who is from Mumbai:");
+
+             Students.Where(student => student.City == "Mumbai")
+            .ToList()
+            .ForEach(student => Console.WriteLine($"Name:{student.Name},City:{student.City}"));
+
+            Console.WriteLine("Displaying students who scored More than 80:");
+            foreach (var s in Students.Where(s => s.Marks > 80))
+                Console.WriteLine($"{s.Name}-{s.Marks}");
+            Console.WriteLine();
+
+            Console.WriteLine("Find all Female students:");
+            foreach(var s in Students.Where(s=>s.Gender=="Female"))
+                Console.WriteLine($"{s.Name}");
+            Console.WriteLine();
+
+            Console.WriteLine("Find all male students with marks above 85");
+            foreach (var s in Students.Where(s => s.Gender == "Male" && s.Marks > 85))
+                Console.WriteLine($"{s.Name}-{s.Marks}");
+            Console.WriteLine();
+
+            Console.WriteLine("Find the student with Id=5");
+            foreach(var s in Students.Where(s=>s.Id==5))
+                Console.WriteLine($"{s.Name}");
+            Console.WriteLine();
+
+            Console.WriteLine("Display The students sorted by Name");
+            foreach (var s in Students.OrderBy(s => s.Name))
+            {
+                Console.WriteLine($"ID:{s.Id},Name:{s.Name}");
+
+            }
+            Console.WriteLine();
+
+            Console.WriteLine("Display students sorted by Marks descending Order");
+            foreach(var s in Students.OrderByDescending(s => s.Marks))
+            {
+                Console.WriteLine($"ID:{s.Name},Marks:{s.Marks}");
+
+            }
+            Console.WriteLine();
+
+            Console.WriteLine("Display names of students between age 20 and 22");
+            foreach (var s in Students.Where(s => s.Age >= 20 && s.Age <= 22))
+            {
+                Console.WriteLine($"{s.Name}-{s.Age}");
+            }
+            Console.WriteLine();
+            var distinctCities = Students.Select(s => s.City).Distinct();
+            Console.WriteLine("10 Display distinct City Names");
+            foreach(var s in distinctCities)
+            {
+                Console.WriteLine(s);
+
+
+            }
+            Console.WriteLine("11 Counting Number of students");
+            int TotaLStudents = Students.Count();
+            Console.WriteLine($"Total Number of students:{TotaLStudents}");
+
+            Console.WriteLine("12 Number of Male students:");
+            int MaleCount= Students.Count(s => s.Gender == "Male");
+            Console.WriteLine($"Total Number of Male Students:{ MaleCount}");
+            Console.WriteLine();
+
+            Console.WriteLine("13 Finding The Average Marks Of students");
+
+            double MarksAvg = Students.Average(s => s.Marks);
+            Console.WriteLine($"Average Marks of Students is:{MarksAvg}");
+            Console.WriteLine();
+
+            Console.WriteLine("14 Find Maximum marks scored");
+            int Maxmarks = Students.Max(s => s.Marks);
+            Console.WriteLine($"Find the Maximum Marks Scored:{Maxmarks}");
+            Console.WriteLine();
+
+            Console.WriteLine("15 Find Minimum Marks scored");
+            int Minmarks = Students.Min(s => s.Marks);
+            Console.WriteLine($"Find the Minimum Marks Scored:{Minmarks}");
+            Console.WriteLine();
+            Console.WriteLine("16Find The Top 3 Students By Marks");
+            foreach(var s in Students.OrderByDescending(s=>s.Marks).Take(3))
+            {
+                Console.WriteLine($"{ s.Name}-{s.Marks}");
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("17.Name of The students Those Name Starts with 'p':");
+            foreach(var s in Students.Where(s => s.Name.StartsWith("P")))
+            {
+                Console.WriteLine(s.Name);
+             
+            }
+
+            Console.WriteLine("17. Studens whose Name starts with 'p':");
+            foreach (var s in Students.Where(s => s.Name.StartsWith("P")))
+            {
+                Console.WriteLine(s.Name);
+
+
+            }
+            Console.WriteLine("18.Find the Name of Students who is from pune or Mumbai");
+            foreach(var s in Students.Where(s=>s.City=="Pune" || s.City == "Mumbai"))
+            {
+                Console.WriteLine(s.Name);
+            }
+
+            Console.WriteLine("19 Display Names in Uppercase:");
+            foreach(var s in Students.Where(s => true))
+            {
+                Console.WriteLine(s.Name.ToUpper());
+            }
+
+            Console.WriteLine("20.Checking the students who scored  100");
+            foreach(var s in Students.Where(s => s.Marks == 100))
+            {
+                Console.WriteLine($"{s.Name}");
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("21 Group the student by City:");
+            foreach(var s in Students.GroupBy(s => s.City).SelectMany(g=>g))
+            {
+                Console.WriteLine($"{s.Name}-{s.City}");
+            }
+
+            Console.WriteLine("Number of Students in each city:");
+                var cityGroups=from student in Students
+                               group student by student.City into cityGroup
+                               select cityGroup;
+            foreach(var group in cityGroups)
+            {
+                Console.WriteLine($"{group.Key}:{group.Count()}students");
+            }
+
+            Console.WriteLine("22 Count How Many are there in  each city");
+            foreach(var group in Students.GroupBy(s => s.City))
+            {
+                Console.WriteLine($"{group.Key}:{group.Count()}students");
+            }
+            Console.WriteLine();
+
+            Console.WriteLine("23 Find the Average Marks Per city");
+
+            Students.GroupBy(s => s.City)
+                .ToList()
+                .ForEach(g =>
+                {
+                    double avgMarks = g.Average(s => s.Marks);
+                    Console.WriteLine($"{g.Key}:{avgMarks:F2}average Marks");
+                });
+            Console.WriteLine();
+
+            Console.WriteLine("Average Marks Per City:");
+            var cityGroupss = from student in Students
+                             group student by student.City into cityGroup
+                             select cityGroup;
+
+            foreach(var group in cityGroupss)
+            {
+                double avgMarks = group.Average(s => s.Marks);
+                Console.WriteLine($"{group.Key}:{avgMarks:F2}Average Marks");
+            }
+            Console.WriteLine();
+
+            Console.WriteLine("24 Find Highest Marks Per city");
+            var citygrop = from student in Students
+                           group student by student.City into Citygroup
+                           select Citygroup;
+            foreach(var group in citygrop)
+            {
+                int Highest = group.Max(s => s.Marks);
+                Console.WriteLine($"{group.Key}:{Highest:F2}Highest Marks");
+            }
+            Console.WriteLine();
+
+            Console.WriteLine("25 Find the city with Most Students");
+            var cityGroup1 = from student in Students
+                             group student by student.City into Citygroup
+                             orderby Citygroup.Count() descending
+                             select Citygroup;
+            var maxCity = cityGroups.First();
+            Console.WriteLine($"City with Maximum students:{maxCity.Key}({maxCity.Count()}students");
+
+            Console.WriteLine("City having Maximum students");
+            var citygroup = Students.GroupBy(s => s.City)
+                           .OrderByDescending(g => g.Count())
+                           .First();
+            Console.WriteLine($"City with maximum students:{citygroup.Key}({citygroup.Count()}students)");
+
+            Console.WriteLine();
+
+            Console.WriteLine("Cities Having atleast 2 students");
+            int minStudents = 2;
+            var cities = Students.GroupBy(s => s.City)
+                .Where(g => g.Count() >= minStudents);
+            Console.WriteLine($"Cities having at least{minStudents}students:");
+            foreach(var citygrouup in cities)
+            {
+                Console.WriteLine($"{citygrouup.Key}({citygrouup.Count()}students)");
+            }
+            Console.WriteLine();
+            Console.WriteLine("Average Marks per Gender:");
+            var genderGroups = Students.GroupBy(s => s.Gender);
+
+            foreach(var group in genderGroups)
+            {
+                double avgMarks = group.Average(s => s.Marks);
+                Console.WriteLine($"{group.Key}:{avgMarks:F2}Average Marks");
+            }
+            Console.WriteLine();
+            var genderList=(from s in Students group s by s.Gender into genderGroup
+
+                select new
+                {
+                    Gender=genderGroup.Key,
+                    Count=genderGroup.Average(s=>s.Marks),
+                });
+            foreach(var item in genderList)
+            {
+                Console.WriteLine($"{item.Gender}:{item.Count}");
+            }
+            ;
+
+            //28
+            Console.WriteLine();
+
+            Console.WriteLine("Group students by age and List Names under each age.");
+            var ageGroups = Students.GroupBy(s => s.Age);
+            foreach(var group in ageGroups)
+            {
+                Console.WriteLine($"\nAge:{group.Key}");
+                foreach(var item in group)
+                {
+                    Console.WriteLine($"-{item.Name}");
+                }
+            }
+
+            //29
+            Console.WriteLine();
+
+            Console.WriteLine("List of students That are Living in cities and first letter osf city Name start with 'D':");
+            var studentsd = Students.Where(s => s.City.StartsWith("D"));
+            foreach(var s in studentsd)
+            {
+                Console.WriteLine($"Name:{s.Name},City:{s.City}");
+            }
+
+            //30
+            Console.WriteLine();
+            Console.WriteLine("Find Total Marks of all studen comBined");
+            int TotalMarks = Students.Sum(s => s.Marks);
+            Console.WriteLine($"Total Marks of All Students:{TotalMarks}");
+            Console.WriteLine();
+            //31
+            Console.WriteLine();
+            Console.WriteLine("Display names and marks of students ordered first by city,then by marks descending");
+                var studetails = Students
+                                     .OrderBy(s => s.City)
+                                     .ThenByDescending(s => s.Marks);
+            foreach(var s in studetails)
+            {
+                Console.WriteLine($"City:{s.City},Name:{s.Name},Marks:{s.Marks}");
+            }
+
+
+            Console.WriteLine();
+            Console.WriteLine("Students ordered by city,then by Marks(descending):");
+            var sortedStudents = from s in Students
+                                 orderby s.City, s.Marks descending
+                                 select s;
+            foreach(var s in sortedStudents)
+            {
+                Console.WriteLine($"City:{s.City},Name:{s.Name},Marks:{s.Marks}");
+            }
+            Console.WriteLine();
+
+            //32
+            Console.WriteLine("select name and city into anonymous object");
+
+            var result = Students.Select(s => new { s.Name, s.City });
+            foreach(var item in result)
+            {
+                Console.WriteLine($"Name:{item.Name},City:{item.City}");
+
+            }
+            //32 without Labda
+            
+            var results = from s in Students select new { s.Name, s.City };
+            foreach(var s6 in results)
+            {
+                Console.WriteLine($"Name:{s6.Name},City:{s6.City}");
+            }
+            Console.WriteLine();
+            //33
+            Console.WriteLine("Students whose Names Contains a");
+            var solution = Students.Where(s => s.Name.Contains("a") || s.Name.Contains("A"));
+            foreach(var re in solution)
+            {
+                Console.WriteLine($"{re.Name}-{re.City}");
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("Studemts with even Ids(Lambda)");
+            var evenIdStudents = Students.Where(s => s.Id % 2 == 0);
+            Console.WriteLine("Students with Even Ids(Lambda):");
+            foreach(var s in evenIdStudents)
+            {
+                Console.WriteLine($"{s.Name}-{s.Id}-{s.City}");
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("Without Lambda Expression");
+            var evenIdStudents2 = from s in Students where s.Id % 2 == 0 select s;
+            Console.WriteLine("Students with Even Ids(Query Syntax):");
+            foreach(var s in evenIdStudents2)
+            {
+                Console.WriteLine($"{s.Name}-{s.Id}-{s.City}");
+            }
+            //34
+            Console.WriteLine();
+            var skippedstudents = Students.Skip(3);
+            Console.WriteLine("Students After skipping first 3 (Lambda):");
+            foreach(var s in skippedstudents)
+            {
+                Console.WriteLine($"{s.Id}-{s.Name}-{s.City}");
+            }
+
+            Console.WriteLine();
+            var skippedstudentsquery = (from s in Students select s).Skip(3);
+
+            Console.WriteLine("Students after skipping First 3");
+            foreach(var s in skippedstudentsquery)
+            {
+                Console.WriteLine($"{s.Id}-{s.Name}-{s.City}");
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("Taking First Five students");
+            var firstFiveStudents = Students.Take(5);
+            foreach(var s in firstFiveStudents)
+            {
+                Console.WriteLine($"{s.Id}-{s.Name}-{s.City}");
+            }
+
+            Console.WriteLine();
+            var FirstFivestudentsQuery = (from s in Students
+                                          select s).Take(5);
+
+            Console.WriteLine("First 5 Students");
+            foreach(var s in FirstFivestudentsQuery)
+            {
+                Console.WriteLine($"{s.Id}-{s.Name}-{s.City}");
+            }
+
+            //37
+            Console.WriteLine("Find Second highest Marks");
+            var secondHighest = Students
+                              .OrderByDescending(s => s.Marks)
+                              .Skip(1)
+                              .FirstOrDefault();
+
+            Console.WriteLine("Second Highest Marks(Lambda):");
+            if (secondHighest != null)
+            {
+                Console.WriteLine($"{secondHighest.Name}-{secondHighest.Marks}");
+            }
+            Console.WriteLine(" Students Having Marks between 70 and 90");
+            var filteredStudents = Students.Where(s => s.Marks >= 70 && s.Marks <= 90);
+
+            Console.WriteLine("Students with Marks 70 and 90");
+            foreach(var s in filteredStudents)
+            {
+                Console.WriteLine($"{s.Name}-{s.Marks}");
+            }
+
+            var result = from s in Students where s.Marks >= 70 && s.Marks <= 90 select s;
+
+            Console.WriteLine("Students Having Marks Between 70 and 90");
+            foreach(var s in result)
+            {
+                Console.WriteLine($"{s.Name}-{s.Marks}");
+            }
+        }
+
+
+    }
+}
